@@ -1,5 +1,7 @@
-# SEI120GT Developer
-Configuration Repository Developer Files for SEI120GT..
+# GHPW - Globe at Home Prepaid WiFi - Developer
+
+## Currently Hacking at:
+* Configuration Repository Developer Files for SEI120GT and etc..
 
 ## What it includes:
 
