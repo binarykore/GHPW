@@ -13,4 +13,4 @@
 
 ## Copyright (2022)
 
-( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
+( C ) - [Binary Kore](https://github.com/binarykore), 09225205353
